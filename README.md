@@ -1,2 +1,2 @@
 # Python text adventure
- simple pythoon text adventure to satisfy your simple needs
+ simple python text adventure to satisfy your simple needs
